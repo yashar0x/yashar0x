@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Web3 Security and specifically conducting Smart Contract Security Reviews
+- ⚡ I'm a warden [**@code4rena**](https://code4rena.com/yashar0x)
+- 📫 How to reach me: [**X**](https://twitter.com/yashar0x)
 <!--
 **yashar0x/yashar0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
