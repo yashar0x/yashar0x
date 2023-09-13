@@ -7,10 +7,10 @@ I'm **Yashar**, you might know me as **Blockchain Ninja**
 - 📫 DM to Book a **Security Review**: [**X**](https://twitter.com/yashar0x)
 - 👶 Been hacking the **Web2** for the past years
   - I did:
-    - ✅ Web Application Penetration Tesing
-    - ✅ Network Penetration Testing
-    - ✅ Red Teaming
-    - ✅ OS and Infrastructure Hardening
+    - Web Application Penetration Tesing
+    - Network Penetration Testing
+    - Red Teaming
+    - OS and Infrastructure Hardening
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashar0x)](https://github.com/anuraghazra/github-readme-stats)
 
