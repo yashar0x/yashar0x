@@ -7,7 +7,7 @@ I'm **Yashar**, you might know me as **Blockchain Ninja**
 - 📫 DM to Book a **Security Review**: [**X**](https://twitter.com/yashar0x)
 - 👶 Been hacking the **Web2** for the past years
   - I did:
-    - Web Application Security
+    - Web Application Penetration Tesing
     - Network Penetration Testing
     - Red Teaming
     - OS and Infrastructure Hardening
