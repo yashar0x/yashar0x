@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Web3 Security** and specifically conducting **Smart Contract Security Reviews**
-- ⚡ I'm a **Warden** [**@code4rena**](https://code4rena.com/yashar0x)
-- 📫 How to reach me: [**X**](https://twitter.com/yashar0x)
+- ⚡ I'm a **Warden** [**@code4rena**](https://code4rena.com/@yashar), **Watson** [**@sherlockdefi**](https://sherlock.xyz), and **White-Hat** [**@immunefi**](https://immunefi.com)
+- 📫 Book for a Security Review: [**X**](https://twitter.com/yashar0x)
+- 📝 I often write articles on: [**Medium**](https://twitter.com/@yashar0x)
 <!--
 **yashar0x/yashar0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
