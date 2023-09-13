@@ -7,8 +7,6 @@ I'm **Yashar**, you might know me as **Blockchain Ninja**
 - 📫 DM to Book a Security Review: [**X**](https://twitter.com/yashar0x)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashar0x)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashar0x&show_icons=true&theme=dark)
-
 
 <!--
 **yashar0x/yashar0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
