@@ -5,6 +5,7 @@ I'm **Yashar**, you might know me as **Blockchain Ninja**
 - ⚡ I'm a **Warden** [**@code4rena**](https://code4rena.com/@yashar), **Watson** [**@sherlockdefi**](https://sherlock.xyz), and **White-Hat** [**@immunefi**](https://immunefi.com)
 - 📝 I often write articles on: [**Medium**](https://twitter.com/@yashar0x)
 - 📫 DM to Book a Security Review: [**X**](https://twitter.com/yashar0x)
+- 👶 Been hacking the Web2 in my past
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashar0x)](https://github.com/anuraghazra/github-readme-stats)
 
