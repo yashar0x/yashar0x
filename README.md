@@ -1,16 +1,18 @@
 ### Hi there 👋
 I'm **Yashar**, you might know me as **Blockchain Ninja**
 
-- 🔭 I’m currently working on **Web3 Security** and specifically conducting **Smart Contract Security Reviews**
-- ⚡ I'm a **Warden** [**@code4rena**](https://code4rena.com/@yashar), **Watson** [**@sherlockdefi**](https://sherlock.xyz), and **White-Hat** [**@immunefi**](https://immunefi.com)
-- 📝 I often write articles on [**Medium**](https://medium.com/@yashar0x)
-- 📫 DM to Book a **Security Review**: [**X**](https://twitter.com/yashar0x)
-- 👶 Been hacking the **Web2** for the past years
-  - I did:
-    - Web Application Penetration Tesing
-    - Network Penetration Testing
-    - Red Teaming
-    - OS, Network, and Infrastructure Hardening
+- 🔭 Currently working on **Web3 Security**, with a focus on conducting **Smart Contract Security Reviews**.
+- ⚡ Roles:
+  - **Warden** [**@code4rena**](https://code4rena.com/@yashar)
+  - **Watson** [**@sherlockdefi**](https://sherlock.xyz)
+  - **White-Hat** [**@immunefi**](https://immunefi.com)
+- 📝 I frequently write articles on [**Medium**](https://medium.com/@yashar0x)
+- 📫 DM me to Book a **Security Review**: [**X**](https://twitter.com/yashar0x)
+- 👶 Been hacking the **Web2** for the past years, specializing in:
+  - Web Application Penetration Tesing
+  - Network Penetration Testing
+  - Red Teaming
+  - OS, Network, and Infrastructure Hardening
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashar0x)](https://github.com/anuraghazra/github-readme-stats)
 
