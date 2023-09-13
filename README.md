@@ -5,6 +5,9 @@ I'm **Yashar**, you might know me as **Blockchain Ninja**
 - ⚡ I'm a **Warden** [**@code4rena**](https://code4rena.com/@yashar), **Watson** [**@sherlockdefi**](https://sherlock.xyz), and **White-Hat** [**@immunefi**](https://immunefi.com)
 - 📝 I often write articles on: [**Medium**](https://twitter.com/@yashar0x)
 - 📫 DM to Book a Security Review: [**X**](https://twitter.com/yashar0x)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashar0x&show_icons=true&theme=transparent)
+
 <!--
 **yashar0x/yashar0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
