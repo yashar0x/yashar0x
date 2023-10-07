@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Yashar**, you might know me as **Blockchain Ninja**
+I'm **Yashar**
 
 - 🔭 Currently working on **Web3 Security**, with a focus on conducting **Smart Contract Security Reviews**.
 - ⚡ Roles:
