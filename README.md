@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salute 🫡
 I'm **Yashar**
 
 - 🔭 Currently working on **Web3 Security**, with a focus on conducting **Smart Contract Security Reviews**.
