@@ -1,7 +1,7 @@
 ### Salute
 I'm **Yashar**, you might know me as ***Blockchain Ninja***
 
-- 🔭 Currently working on **Web3 Security**, with a focus on conducting **Smart Contract Security Reviews**.
+- 🔭 Currently working on **Web3 Security**, with a focus on conducting **Smart Contract Security Reviews**
 - ⚡ Roles:
   - Whitehat [@immunefi](https://immunefi.com)
   - Warden [@code4rena](https://code4rena.com/@yashar)
