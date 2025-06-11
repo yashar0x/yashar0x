@@ -1,6 +1,6 @@
 ## About
 
-Yashar is an independent web3 security researcher specialized in Rust, Go and Solidity audits
+Yashar is an independent web3 security researcher specialized in Rust, Go, Clarity and Solidity audits
 
 ## Contact
 
