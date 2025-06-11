@@ -1,16 +1,19 @@
-## Hi there 👋
+## About
 
-<!--
-**yashar0x/yashar0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent web3 security researcher
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Twitter:** [yashar0x]
+- **Telegram:** [yashar0x]
+- **Discord:** [yashar0x]
+
+## Portfolio
+
+### Contests
+
+| Contest       | Platform      | Findings               | Description                             |
+| ------------- | ------------- | -------------          | -------------                           |
+| OpenDollar    | Code4rena     | 3 Medium (1 Solo)      | 🥉 Top3                                 |
+| MakerDAO      | Sherlock      | 1 Medium               | Received $230 + $10K for contribution   | 
+| Infrared      | Cantina       | 1 High, 2 Medium       |                                         | 
