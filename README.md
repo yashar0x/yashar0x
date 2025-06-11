@@ -4,9 +4,9 @@ Independent web3 security researcher
 
 ## Contact
 
-- **Twitter:** [yashar0x]
-- **Telegram:** [yashar0x]
-- **Discord:** [yashar0x]
+- **Twitter:** [yashar0x](x.com/yashar0x)
+- **Telegram:** [yashar0x](t.me/yashar0x)
+- **Discord:** [yashar0x](discordapp.com/users/1116969574009688094)
 
 ## Portfolio
 
