@@ -18,7 +18,7 @@ Yashar is an independent web3 security researcher
 | MakerDAO             | Solidity      | Sherlock      | 1 Medium               | Received $230 + $10K for contribution   | 
 | Infrared             | Solidity      | Cantina       | 1 High, 2 Medium       |                                         | 
 | Stacks Attackathon   | Rust          | Immunefi      | 1 Low                  | Participated in a team                  | 
-| Optimism Java        | JAVA          | Cantina       | 1 Medium, 1 Low        |                                         | 
+| Optimism Java        | Java          | Cantina       | 1 Medium, 1 Low        |                                         | 
 | Winnable Raffles     | Solidity      | Sherlock      | 3 High, 2 Medium       |                                         | 
 | Sentiment V2         | Solidity      | Sherlock      | 2 Medium               |                                         | 
 | MagicSea             | Solidity      | Sherlock      | 1 High, 2 Medium       |                                         | 
