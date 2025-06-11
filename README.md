@@ -1,6 +1,6 @@
 ## About
 
-Independent web3 security researcher
+Yashar is an independent web3 security researcher
 
 ## Contact
 
