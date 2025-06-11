@@ -4,9 +4,9 @@ Yashar is an independent web3 security researcher specialized in Rust, Go, Clari
 
 ## Contact
 
-- **Twitter:** [yashar0x](x.com/yashar0x)
-- **Telegram:** [yashar0x](t.me/yashar0x)
-- **Discord:** [yashar0x](discordapp.com/users/1116969574009688094)
+- **Twitter:** [yashar0x](https://x.com/yashar0x)
+- **Telegram:** [yashar0x](https://t.me/yashar0x)
+- **Discord:** [yashar0x](https://discordapp.com/users/1116969574009688094)
 
 ## Portfolio
 
