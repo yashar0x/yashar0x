@@ -19,3 +19,10 @@ Yashar is an independent web3 security researcher
 | Infrared             | Solidity      | Cantina       | 1 High, 2 Medium       |                                         | 
 | Stacks Attackathon   | Rust          | Immunefi      | 1 Low                  | Participated in a team                  | 
 | Optimism Java        | JAVA          | Cantina       | 1 Medium, 1 Low        |                                         | 
+| Winnable Raffles     | Solidity      | Sherlock      | 3 High, 2 Medium       |                                         | 
+| Sentiment V2         | Solidity      | Sherlock      | 2 Medium               |                                         | 
+| MagicSea             | Solidity      | Sherlock      | 1 High, 2 Medium       |                                         | 
+| LoopFi               | Solidity      | Code4rena     | 4 Medium               |                                         | 
+| Andromeda            | Rust          | Sherlock      | 1 Medium               |                                         | 
+| zkSync Era           | Solidity      | Code4rena     | 1 Medium               |                                         | 
+
