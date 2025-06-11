@@ -12,8 +12,10 @@ Yashar is an independent web3 security researcher
 
 ### Contests
 
-| Contest       | Platform      | Findings               | Description                             |
-| ------------- | ------------- | -------------          | -------------                           |
-| OpenDollar    | Code4rena     | 3 Medium (1 Solo)      | 🥉 Top3                                 |
-| MakerDAO      | Sherlock      | 1 Medium               | Received $230 + $10K for contribution   | 
-| Infrared      | Cantina       | 1 High, 2 Medium       |                                         | 
+| Contest              | Language      | Platform      | Findings               | Description                             |
+| -------------        | ------------- | ------------- | -------------          | -------------                           |
+| OpenDollar           | Solidity      | Code4rena     | 3 Medium (1 Solo)      | 🥉 Top3                                 |
+| MakerDAO             | Solidity      | Sherlock      | 1 Medium               | Received $230 + $10K for contribution   | 
+| Infrared             | Solidity      | Cantina       | 1 High, 2 Medium       |                                         | 
+| Stacks Attackathon   | Rust          | Immunefi      | 1 Low                  | Participated in a team                  | 
+| Optimism Java        | JAVA          | Cantina       | 1 Medium, 1 Low        |                                         | 
