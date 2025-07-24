@@ -12,10 +12,10 @@ Yashar is an independent web3 security researcher specialized in Rust, Go, Clari
 ### Contests
 
 | Contest              | Language      | Platform      | Findings               | Description                             |
-| -------------        | ------------- | ------------- | -------------          | -------------                           |
-| OpenDollar           | Solidity      | Code4rena     | 3 Medium (1 Solo)      | 🥉 Top3                                 |
-| Space and Time       | Rust          | Cantina       | 3 Medium (1 Solo)      | Top10 - Final Results not announced yet |
-| MakerDAO             | Solidity      | Sherlock      | 1 Medium               | Received $230 + $10K for contribution   | 
+| -------------        | ------------- | ------------- | -------------          | -------------                                                        |
+| OpenDollar           | Solidity      | Code4rena     | 3 Medium (1 Solo)      | 🥉 Top3                                                              |
+| Space and Time       | Rust          | Cantina       | 3 Medium (1 Solo)      | Top10 - Final Results not announced yet                              |
+| MakerDAO             | Solidity      | Sherlock      | 1 Medium               | Received $230 + $10K for contribution for a medium severity report   | 
 | Infrared             | Solidity      | Cantina       | 1 High, 2 Medium       |                                         | 
 | Movement Attackathon | Rust          | Immunefi      | 1 Critical, 1 high     | Participated in a team with @pwnforce   | 
 | Stacks Attackathon   | Rust          | Immunefi      | 1 Low                  | Participated in a team with @pwnforce   | 
