@@ -17,8 +17,8 @@ I'm an independent web3 security researcher specialized in Rust, Go, Clarity and
 | Space and Time       | Rust          | Cantina       | 3 Medium (1 Solo)      | Top10 - Final Results not announced yet                              |
 | MakerDAO             | Solidity      | Sherlock      | 1 Medium               | One of the 3 researchers who could find a medium severity bug in MakerDAO and received $10K for contribution | 
 | Infrared             | Solidity      | Cantina       | 1 High, 2 Medium       |                                         | 
-| Movement Attackathon | Rust          | Immunefi      | 1 Critical, 1 high     | Participated in a team with @pwnforce   | 
-| Stacks Attackathon   | Rust          | Immunefi      | 1 Low                  | Participated in a team with @pwnforce   | 
+| Movement Attackathon | Rust          | Immunefi      | 1 Critical, 1 high     | Participated as a member of the [@Cartel](https://immunefi.com/profile/cartel/)   | 
+| Stacks Attackathon   | Rust          | Immunefi      | 1 Low                  | Participated as a member of the [@Cartel](https://immunefi.com/profile/cartel/)   | 
 | Optimism Java        | Java          | Cantina       | 1 Medium, 1 Low        |                                         | 
 | Winnable Raffles     | Solidity      | Sherlock      | 3 High, 2 Medium       |                                         | 
 | Sentiment V2         | Solidity      | Sherlock      | 2 Medium               |                                         | 
