@@ -1,7 +1,6 @@
 ## About
 
-I'm a web3 security researcher specialized in Rust, Go, Clarity and Solidity audits
-Co-Founder at Shred Security
+I'm a web3 security researcher specialized in Rust, Go, Clarity, Vyper and Solidity audits
 
 ## Contact
 
