@@ -2,7 +2,7 @@
 
 I’m a Web3 security researcher focused on deep protocol analysis and smart-contract security across a wide range of languages and ecosystems, including Rust, Go, Clarity, Vyper and Solidity.
 
-I’m also the co-founder of Shred Security, where I work on securing DeFi protocols, L1/L2 infrastructure, and complex on-chain systems. My work emphasizes adversarial thinking, high-signal findings, and practical guidance that teams can actually use to harden their code.
+I’m also the co-founder of [Shred Security](https://shredsec.xyz), where I work on securing DeFi protocols, L1/L2 infrastructure, and complex on-chain systems. My work emphasizes adversarial thinking, high-signal findings, and practical guidance that teams can actually use to harden their code.
 
 ## Contact
 
