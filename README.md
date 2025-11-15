@@ -9,6 +9,12 @@ I'm a web3 security researcher specialized in Rust, Go, Clarity, Vyper and Solid
 
 ## Portfolio
 
+### Shred Security
+
+| Date          | Protocol      | Category        | Findings        | Report            |
+| ------------- | ------------- | -------------   | -------------   | -------------     |
+| 11/2025       | Must Finance  | DeFi, CDP       | 1H, 1M          | Not published yet |
+
 ### Contests
 
 | Contest              | Language      | Platform      | Findings               | Description                             |
