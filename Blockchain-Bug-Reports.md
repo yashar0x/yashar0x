@@ -1,19 +1,10 @@
 # L1/L2 Bug Reports
 
-Here I’ve included my L1/L2 bug reports.
-
-## About
-
-I’m a Web3 security researcher focused on deep protocol analysis and smart-contract security across a wide range of languages and ecosystems, including Rust, Go, Clarity, Vyper and Solidity.
-
-I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I work on securing DeFi protocols, L1/L2 infrastructure, and complex on-chain systems. My work emphasizes adversarial thinking, high-signal findings, and practical guidance that teams can actually use to harden their code.
-
-## Contact
-
-- **Twitter:** [yashar0x](https://x.com/yashar0x)
-- **Discord:** [yashar0x](https://discordapp.com/users/1116969574009688094)
+Here I’ve included L1/L2 bugs found by Shred Security Researchers
 
 ## Bug Reports
+
+### Bugs found by Yashar
 
 | Project | Title | Severity | Language | Platform | Report |
 | --- | --- | --- | --- | --- | --- |
@@ -27,3 +18,5 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 | Space and Time | Unrestricted nominated events allow low-cost spam on nodes | Low | Rust | Cantina |   [LINK](./blockchain-bug-reports/Space-Low-01.md)  |
 | Optimism Java | Lack of Idle connection handling may DoS the entire consensus layer | Medium | Java | Cantina |   [LINK](./blockchain-bug-reports/OP-Medium-01.md)  |
 | Optimism Java | Race condition in RpcServer connectionHandler allows exceeding maxActiveConnections | Low | Java | Cantina |   [LINK](./blockchain-bug-reports/OP-Low-01.md)  |
+
+### Bugs found by Chupinexx
