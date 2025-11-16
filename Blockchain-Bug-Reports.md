@@ -20,7 +20,7 @@ Here I’ve included L1/L2 bugs found by Shred Security Researchers
 | Space and Time | Critical Replay and State Confusion in Staking Contract Allows Double Withdrawal of Unstaked Funds | High | Rust | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-High-1.md)  |
 | Space and Time | validateMessage Fails with Unordered Signatures, Leading to Permanent Loss of Access to Unstaked Funds | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-1.md)  |
 | Space and Time | Hardcoded 10-Day EVM Timelock Desynchronizes with SXT Chain's 7-Day Unbonding, Impairing Unstake Cancellation Utility | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-2.md)  |
-| Space and Time | Users Trapped in UnstakeClaimed State with No Recovery Path After SXT Chain Reorganization | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-3.md])  |
+| Space and Time | Users Trapped in UnstakeClaimed State with No Recovery Path After SXT Chain Reorganization | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-3.md)  |
 | Space and Time | Protocol Performs Unfunded Work and Pays Gas for Queries Submitted with Minimal Deposits | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-4.md)  |
 | Space and Time | Malicious customLogicContractAddress Allows Diversion of Protocol Fees and Gas Reimbursements| Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-5.md)  |
 | Space and Time | Low Existential Deposit allows mass account creation for near-zero cost | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/yashar/Space-Medium-01.md)  |
