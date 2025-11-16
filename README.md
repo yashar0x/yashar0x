@@ -13,9 +13,9 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 ### Shred Security
 
-| Date          | Protocol      | Category        | Findings        | Report            |
-| ------------- | ------------- | -------------   | -------------   | -------------     |
-| 11/2025       | Must Finance  | DeFi, CDP       | 1H, 1M          | Not published yet |
+| Date          | Protocol      | Language        | Category        | Findings        | Report            |
+| ------------- | ------------- | -------------   | -------------   | -------------   | -------------     |
+| 11/2025       | Must Finance  | Solidity        | DeFi, CDP       | 1H, 1M          | Not published yet |
 
 ### Contests
 
