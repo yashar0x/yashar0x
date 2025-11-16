@@ -17,7 +17,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 | Project | Title | Severity | Language | Platform | Report |
 | --- | --- | --- | --- | --- | --- |
-| Movement Labs | Attackers can drain the sequencer’s wallet and DoS network by submitting transactions from unfunded accounts | Critical | Rust | Immunefi |     |
+| Movement Labs | Attackers can drain the sequencer’s wallet and DoS network by submitting transactions from unfunded accounts | Critical | Rust | Immunefi |  [LINK](./blockchain-bug-reports/Move-Crit-01.md)   |
 | Movement Labs | Premature transaction acceptance to mempool/DA without signature validation | High | Rust | Immunefi |     |
 | Stacks | Unvalidated withdrawal events allow data manipulation and denial of service in Emily | Low | Rust | Immunefi |     |
 | Andromeda | Stakers Funds Will Be Permanently Locked Within the Contract if a Validator is Tombstoned | Medium | Rust | Sherlock |     |
