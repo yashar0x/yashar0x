@@ -1,6 +1,10 @@
 # L1/L2 Bug Reports
 
-Here I’ve included L1/L2 bugs found by Shred Security Researchers
+Here, I’ve included the L1/L2 bugs found by [**Shred Security**](https://shredsec.xyz) researchers.
+
+Security Researchers:
+- [yashar](https://x.com/yashar0x)
+- [chupinexx](https://x.com/chupinexx)
 
 ## Bug Reports
 
