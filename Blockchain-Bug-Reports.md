@@ -17,10 +17,15 @@ Here I’ve included L1/L2 bugs found by Shred Security Researchers
 | Telecoin Network | Incorrect Committee Size Validation During Slashing of PendingExit Validators Causes Unintended Reverts | Info | Rust/solidity | Cantina |  [LINK](./blockchain-bug-reports/chupinexx/Telecoin-Finding-info-2.md)   |
 | Stacks | Unvalidated withdrawal events allow data manipulation and denial of service in Emily | Low | Rust | Immunefi |  [LINK](./blockchain-bug-reports/yashar/Stacks-Low-01.md)   |
 | Andromeda | Stakers Funds Will Be Permanently Locked Within the Contract if a Validator is Tombstoned | Medium | Rust | Sherlock |  [LINK](./blockchain-bug-reports/yashar/Andromeda-Medium-01.md)   |
+| Space and Time | Critical Replay and State Confusion in Staking Contract Allows Double Withdrawal of Unstaked Funds | High | Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-High-1.md)  |
+| Space and Time | validateMessage Fails with Unordered Signatures, Leading to Permanent Loss of Access to Unstaked Funds | Medium | Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-1.md)  |
+| Space and Time | Hardcoded 10-Day EVM Timelock Desynchronizes with SXT Chain's 7-Day Unbonding, Impairing Unstake Cancellation Utility | Medium | Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-2.md)  |
+| Space and Time | Users Trapped in UnstakeClaimed State with No Recovery Path After SXT Chain Reorganization | Medium | Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-3.md])  |
+| Space and Time | Protocol Performs Unfunded Work and Pays Gas for Queries Submitted with Minimal Deposits | Medium | Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-4.md)  |
+| Space and Time | Malicious customLogicContractAddress Allows Diversion of Protocol Fees and Gas Reimbursements| Medium | Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/SXT-Finding-Medium-5.md)  |
 | Space and Time | Low Existential Deposit allows mass account creation for near-zero cost | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/yashar/Space-Medium-01.md)  |
 | Space and Time | initiateUnstake will unstake the full staked amount | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/yashar/Space-Medium-02.md)  |
 | Space and Time | Malicious indexer can cause storage bloat | Medium | Rust | Cantina |  [LINK](./blockchain-bug-reports/yashar/Space-Medium-03.md)   |
 | Space and Time | Unrestricted nominated events allow low-cost spam on nodes | Low | Rust | Cantina |   [LINK](./blockchain-bug-reports/yashar/Space-Low-01.md)  |
 | Optimism Java | Lack of Idle connection handling may DoS the entire consensus layer | Medium | Java | Cantina |   [LINK](./blockchain-bug-reports/yashar/OP-Medium-01.md)  |
 | Optimism Java | Race condition in RpcServer connectionHandler allows exceeding maxActiveConnections | Low | Java | Cantina |   [LINK](./blockchain-bug-reports/yashar/OP-Low-01.md)  |
-
