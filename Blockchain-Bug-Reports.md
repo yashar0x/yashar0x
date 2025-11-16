@@ -6,8 +6,15 @@ Here I’ve included L1/L2 bugs found by Shred Security Researchers
 
 | Project | Title | Severity | Language | Platform | Report |
 | --- | --- | --- | --- | --- | --- |
-| Movement Labs | Attackers can drain the sequencer’s wallet and DoS network by submitting transactions from unfunded accounts | Critical | Rust | Immunefi |  [LINK](./blockchain-bug-reports/Move-Crit-01.md)   |
+| Movement Labs | Attackers can drain the sequencer’s wallet and DoS network by submitting transactions from unfunded accounts | Critical | Rust | Immunefi |  [LINK](./blockchain-bug-reports/yashar/Move-Crit-01.md)   |
 | Movement Labs | Premature transaction acceptance to mempool/DA without signature validation | High | Rust | Immunefi |  [LINK](./blockchain-bug-reports/yashar/Move-High-01.md)   |
+| Telecoin Network | Lack of Per-Transaction Gas Limit Allows Single Transaction to Block Entire Batch in Telcoin Network | High | Rust/solidity | Cantina |  [LINK](./blockchain-bug-reports/chupinexx/Telecoin-Finding-High-1.md)   |
+| Telecoin Network | Incorrect Assignment of Delegator and Validator Fields in Delegation Struct Results in Delegator Losing Reward Claim Rights | High | Rust/solidity | Cantina |  [LINK](./blockchain-bug-reports/chupinexx/L1-L2-Findings/blob/main/Telecoin-Finding-High-2.md)   |
+| Telecoin Network | Lack of Mandatory Base Fee Enforcement Enables Fee-Free Attacks | Medium | Rust/solidity | Cantina |  [LINK](./blockchain-bug-reports/chupinexx/Telecoin-Finding-Medium-1.md)   |
+| Telecoin Network | Low-Level Call Allows EIP-7702 Wallets to Block Slashing/Burn, Enabling Denial-of-Service Against Protocol Enforcement | Medium | Rust/solidity | Cantina |  [LINK](./blockchain-bug-reports/chupinexx/Telecoin-Finding-Medium-2.md)   |
+| Telecoin Network | Double-Decrement of Committee Length After Ejection Causes Incorrect Committee Size Validation | Low| Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/Telecoin-Finding-Low-1.md)  |
+| Telecoin Network | Unsafe Non-Blocking Shutdown Lead To Database Corruption and Extended Validator Downtime | Info | Rust/solidity | Cantina |   [LINK](./blockchain-bug-reports/chupinexx/Telecoin-Finding-Info-1.md)  |
+| Telecoin Network | Incorrect Committee Size Validation During Slashing of PendingExit Validators Causes Unintended Reverts | Info | Rust/solidity | Cantina |  [LINK](./blockchain-bug-reports/chupinexx/Telecoin-Finding-info-2.md)   |
 | Stacks | Unvalidated withdrawal events allow data manipulation and denial of service in Emily | Low | Rust | Immunefi |  [LINK](./blockchain-bug-reports/yashar/Stacks-Low-01.md)   |
 | Andromeda | Stakers Funds Will Be Permanently Locked Within the Contract if a Validator is Tombstoned | Medium | Rust | Sherlock |  [LINK](./blockchain-bug-reports/yashar/Andromeda-Medium-01.md)   |
 | Space and Time | Low Existential Deposit allows mass account creation for near-zero cost | Medium | Rust | Cantina |   [LINK](./blockchain-bug-reports/yashar/Space-Medium-01.md)  |
