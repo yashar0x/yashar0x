@@ -2,7 +2,7 @@
 
 Here, I’ve included the L1/L2 bugs found by [**Shred Security**](https://shredsec.xyz) researchers.
 
-Security Researchers:
+Reporting Researchers:
 - [yashar](https://x.com/yashar0x)
 - [chupinexx](https://x.com/chupinexx)
 
