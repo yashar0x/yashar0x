@@ -15,7 +15,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 | Date          | Protocol      | Language        | Category        | Findings        | Report            |
 | ------------- | ------------- | -------------   | -------------   | -------------   | -------------     |
-| 11/2025       | Must Finance  | Solidity        | DeFi, CDP       | 1H, 1M          | Not published yet |
+| 11/2025       | Must Finance  | Solidity        | DeFi, CDP       | 1H, 1M          | [Link](https://github.com/ShredSecurity/audits/blob/main/private_reviews/Mustang-Audit-Shred-11-2025.pdf) |
 
 ### Contests
 
