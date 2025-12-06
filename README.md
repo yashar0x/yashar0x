@@ -11,7 +11,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 ## Portfolio
 
-### Shred Security
+### Private Audits
 
 | Date          | Protocol      | Language        | Category        | Findings        | Report            |
 | ------------- | ------------- | -------------   | -------------   | -------------   | -------------     |
