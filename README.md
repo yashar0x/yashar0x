@@ -23,7 +23,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 | Contest              | Language      | Platform      | Findings               | Description                             |
 | -------------        | ------------- | ------------- | -------------          | -------------                                                        |
 | OpenDollar           | Solidity      | Code4rena     | 3 Medium (1 Solo)      | 🥉 Top3                                                              |
-| Space and Time       | Rust          | Cantina       | 3 Medium (1 Solo)      | Top10 - Final Results not announced yet                              |
+| Space and Time       | Rust          | Cantina       | 3 Medium (1 Solo)      | Top10                                   |
 | MakerDAO             | Solidity      | Sherlock      | 1 Medium               | One of the 3 researchers who could find a medium severity bug in MakerDAO and received $10K for contribution | 
 | Infrared             | Solidity      | Cantina       | 1 High, 2 Medium       |                                         | 
 | Movement Attackathon | Rust          | Immunefi      | 1 Critical, 1 high     | Participated as a member of the [@Cartel](https://immunefi.com/profile/cartel/)   | 
