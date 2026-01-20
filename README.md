@@ -36,3 +36,9 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 | Andromeda            | Rust          | Sherlock      | 1 Medium               |                                         | 
 | zkSync Era           | Solidity      | Code4rena     | 1 Medium               |                                         | 
 
+
+### Public Works
+
+| Tool / Resource | Description | Link |
+|-----------------|-------------|------|
+| Protocol Deployment Checklist | A comprehensive checklist for deploying smart contracts safely, covering best practices and common pitfalls. | [GitHub](https://github.com/ShredSecurity/protocol-deployment-checklist) |
