@@ -22,7 +22,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 | Date          | Protocol      | Language        | Category         | Severity        | Report            |
 | ------------- | ------------- | -------------   | -------------    | -------------   | -------------     |
-| 02/2026       | Private       | Rust            | Blockchain/DLT   | 1H              | Private           |
+| 02/2026       | Private       | Rust            | Blockchain/DLT   | High            | Private           |
 
 ### Contests
 
