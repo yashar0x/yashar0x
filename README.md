@@ -20,10 +20,10 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 ### Bug Bounty
 
-| Date          | Program       | Language        | Category         | Severity        | Platform          | Write-up          |
-| ------------- | ------------- | -------------   | -------------    | -------------   | -------------     | -------------     |
-| 02/2026       | Stacks        | Rust            | Blockchain/DLT   | Medium          | Immunefi          | Private           |
-| 02/2026       | Stacks        | Rust            | Blockchain/DLT   | Critical        | Immunefi          | Private           |
+| Date          | Program       | Language        | Category                        | Severity        | Platform          | Write-up          |
+| ------------- | ------------- | -------------   | ------------------------------  | -------------   | -------------     | -------------     |
+| 02/2026       | Stacks        | Rust            | Blockchain/DLT                  | Medium          | Immunefi          | Private           |
+| 02/2026       | Stacks        | Rust            | Blockchain/DLT | Cryptography   | Critical        | Immunefi          | Private           |
 
 ### Contests
 
