@@ -15,7 +15,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 | Date          | Protocol      | Language        | Category         | Findings        | Report            |
 | ------------- | ------------- | -------------   | -------------    | -------------   | -------------     |
-| 12/2025       | Ratehopper    | Solidity        | DeFi, Aggregator | 3H, 4M, 6L      | Private           |
+| 12/2025       | Ratehopper    | Solidity        | DeFi, Aggregator | 3H, 4M, 6L      | [Link](https://github.com/Shred-Security/audits/blob/main/Ratehopper/Ratehopper-Audit-Shred-01-2026.pdf)           |
 | 11/2025       | Must Finance  | Solidity        | DeFi, CDP        | 1H, 1M          | [Link](https://github.com/ShredSecurity/audits/blob/main/private_reviews/Mustang-Audit-Shred-11-2025.pdf) |
 
 ### Bug Bounty
