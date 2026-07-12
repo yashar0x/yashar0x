@@ -15,6 +15,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsec.xyz), where I
 
 | Date          | Protocol       | Language        | Category         | Findings        | Report            |
 | ------------- | -------------  | -------------   | -------------    | -------------   | -------------     |
+| 07/2026       | Multisig       | Solidity        | Wallet           | Private         | Private           | 
 | 06/2026       | Ratehopper III | Solidity        | DeFi, Aggregator | Private         | Private           | 
 | 05/2026       | Arche          | Solidity        | DeFi             | Private         | Private           | 
 | 12/2025       | Ratehopper     | Solidity        | DeFi, Aggregator | 3H, 4M, 6L      | [Link](https://github.com/Shred-Security/audits/blob/main/Ratehopper/Ratehopper-Audit-Shred-01-2026.pdf)           |
