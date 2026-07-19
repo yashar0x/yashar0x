@@ -4,7 +4,7 @@ I’m a Web3 security researcher specializing in deep protocol analysis and Bloc
 
 I’m also the co-founder of [**Shred Security**](https://shredsecurity.io), where I work on securing DeFi protocols, L1/L2 infrastructure, and complex on-chain systems. My work emphasizes adversarial thinking, high-signal findings, and practical guidance that teams can actually use to harden their code.
 
-At Shred Security, we also build security tooling and educational resources for the broader ecosystem. Our [Protocol Deployment Checklist](https://github.com/Shred-Security/Protocol-Deployment-Checklist) provides a practical pre-launch framework that helps teams catch security and operational oversights before deployment. We also created [HackViz](https://hackviz.shredsec.xyz/), an interactive visualization platform that breaks down real-world Web3 exploits, helping security researchers, auditors, and protocol teams study attack techniques and build more resilient systems.
+At Shred Security, we also build security tooling and educational resources for the broader ecosystem. Our [Protocol Deployment Checklist](https://github.com/Shred-Security/Protocol-Deployment-Checklist) provides a practical pre-launch framework that helps teams catch security and operational oversights before deployment. We also created [HackViz](https://hackviz.shredsecurity.io/), an interactive visualization platform that breaks down real-world Web3 exploits, helping security researchers, auditors, and protocol teams study attack techniques and build more resilient systems.
 
 ## Contact
 
