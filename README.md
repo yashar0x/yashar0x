@@ -51,6 +51,7 @@ At Shred Security, we also build security tooling and educational resources for 
 
 ### Public Works
 
-| Tool / Resource | Description | Link |
-|-----------------|-------------|------|
-| Protocol Deployment Checklist | A comprehensive checklist for deploying smart contracts safely, covering best practices and common pitfalls. | [GitHub](https://github.com/ShredSecurity/protocol-deployment-checklist) |
+| Tool / Resource | Role        | Description | Link |
+|-----------------|-------------|-------------|------|
+| Protocol Deployment Checklist | Author      | A comprehensive checklist for deploying smart contracts safely, covering best practices and common pitfalls. | [GitHub](https://github.com/ShredSecurity/protocol-deployment-checklist) |
+| HackViz         | Contributor | Interactive visualization platform for studying real-world Web3 security exploits | [Link](https://hackviz.shredsecurity.io/) |
