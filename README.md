@@ -25,8 +25,8 @@ I’m also the co-founder of [**Shred Security**](https://shredsecurity.io), whe
 
 | Date          | Program       | Language        | Category                        | Severity        | Platform          | Write-up          |
 | ------------- | ------------- | -------------   | ------------------------------  | -------------   | -------------     | -------------     |
-| 02/2026       | Stacks        | Rust            | Blockchain/DLT                  | Medium          | Immunefi          | Private           |
-| 02/2026       | Stacks        | Rust            | Cryptography                    | Critical        | Immunefi          | Private           |
+| 02/2026       | Stacks/sBTC   | Rust            | Blockchain/DLT                  | Medium          | Immunefi          | Private           |
+| 02/2026       | Stacks/sBTC   | Rust            | Cryptography                    | Critical        | Immunefi          | Private           |
 
 ### Contests
 
