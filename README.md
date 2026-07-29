@@ -16,8 +16,8 @@ I’m also the co-founder of [**Shred Security**](https://shredsecurity.io), whe
 | Date          | Protocol       | Language        | Category         | Findings        | Report            |
 | ------------- | -------------  | -------------   | -------------    | -------------   | -------------     |
 | 07/2026       | Multisig       | Solidity        | EIP-712 Multisig | 2L, 2I          | [Link](https://github.com/Shred-Security/audits/blob/main/Multisig/Multisig-Shred-Audit-07-2026.pdf) | 
-| 06/2026       | Ratehopper III | Solidity        | DeFi, Aggregator | Private         | Private           | 
-| 05/2026       | Arche          | Solidity        | DeFi             | Private         | Private           | 
+| 06/2026       | Ratehopper III | Solidity        | DeFi, Aggregator | 5L, 3I          | [Link](https://github.com/Shred-Security/audits/blob/main/Ratehoper_3/Ratehopper3-Shred-Audit-06-2026.pdf)| 
+| 05/2026       | Arche          | Solidity        | DeFi             | 4I              | [Link](https://github.com/Shred-Security/audits/blob/main/Arche_Protocol/Arche-Protocol-Shred-Audit-07-26_Draft.pdf)  | 
 | 12/2025       | Ratehopper     | Solidity        | DeFi, Aggregator | 3H, 4M, 6L      | [Link](https://github.com/Shred-Security/audits/blob/main/Ratehopper/Ratehopper-Audit-Shred-01-2026.pdf)           |
 | 11/2025       | Must Finance  | Solidity        | DeFi, CDP        | 1H, 1M          | [Link](https://github.com/Shred-Security/audits/blob/main/Mustang_Finance/Mustang-Audit-Shred-11-2025.pdf) |
 
