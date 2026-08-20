@@ -7,6 +7,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsecurity.io), whe
 ## Contact
 
 - **Twitter:** [yashar0x](https://x.com/yashar0x)
+- **Telegram:** [yashar0x](https://t.me/yashar0x)
 - **Discord:** [yashar0x](https://discordapp.com/users/1116969574009688094)
 
 ## Portfolio
