@@ -16,6 +16,7 @@ I’m also the co-founder of [**Shred Security**](https://shredsecurity.io), whe
 
 | Date          | Protocol       | Language        | Category         | Findings        | Report            |
 | ------------- | -------------  | -------------   | -------------    | -------------   | -------------     |
+| 09/2026       | Ratehopper IV  | Solidity        | DeFi, Aggregator | 5M, 5L, 1I      | [Link](https://github.com/Shred-Security/audits/blob/main/Ratehopper_4/RateHopper4-Shred-Audit-09-2026.pdf)| 
 | 07/2026       | Multisig       | Solidity        | EIP-712 Multisig | 2L, 2I          | [Link](https://github.com/Shred-Security/audits/blob/main/Multisig/Multisig-Shred-Audit-07-2026.pdf) | 
 | 06/2026       | Ratehopper III | Solidity        | DeFi, Aggregator | 5L, 3I          | [Link](https://github.com/Shred-Security/audits/blob/main/Ratehoper_3/Ratehopper3-Shred-Audit-06-2026.pdf)| 
 | 05/2026       | Arche          | Solidity        | DeFi             | 4I              | [Link](https://github.com/Shred-Security/audits/blob/main/Arche_Protocol/Arche-Protocol-Shred-Audit-07-26_Draft.pdf)  | 
