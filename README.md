@@ -1,4 +1,4 @@
-## About
+## whoami
 
 I’m a Web3 security researcher specializing in deep protocol analysis and Blockchain/DLT security. I work across a wide range of languages and ecosystems, including Rust, Go, Clarity, Vyper, and Solidity.
 
