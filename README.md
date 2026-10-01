@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gh-header.jpeg" alt="yashar">
+  <img src="./gh-header.jpg" alt="yashar">
 </p>
 
 ## About
