@@ -10,15 +10,18 @@ yashar0x@shred:~$ whoami
   systems. My work emphasizes adversarial thinking, high-signal findings, and
   practical guidance that teams can actually use to harden their code.
 
-
-yashar0x@shred:~$ cat contact.txt
+/////////////////////////////////////////////////////////////////////////
+//////////////////////////////// CONTACT ////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
 
   Twitter  : https://x.com/yashar0x
   Telegram : https://t.me/yashar0x
   Discord  : https://discordapp.com/users/1116969574009688094
 
 
-yashar0x@shred:~$ ls -la portfolio/
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////// PORTFOLIO ///////////////////////////////
+/////////////////////////////////////////////////////////////////////////
 
   drwxr-xr-x  private-audits/
   drwxr-xr-x  bug-bounty/
@@ -26,7 +29,9 @@ yashar0x@shred:~$ ls -la portfolio/
   drwxr-xr-x  public-works/
 
 
-yashar0x@shred:~$ cat portfolio/private-audits.log
+/////////////////////////////////////////////////////////////////////////
+//////////////////////////// PRIVATE AUDITS /////////////////////////////
+/////////////////////////////////////////////////////////////////////////
 
   DATE      PROTOCOL        LANGUAGE    CATEGORY           FINDINGS         REPORT
   --------  --------------  ----------  -----------------  ---------------  ------
@@ -38,7 +43,9 @@ yashar0x@shred:~$ cat portfolio/private-audits.log
   11/2025   Must Finance    Solidity    DeFi, CDP          1H, 1M           https://github.com/Shred-Security/audits/blob/main/Mustang_Finance/Mustang-Audit-Shred-11-2025.pdf
 
 
-yashar0x@shred:~$ cat portfolio/bug-bounty.log
+/////////////////////////////////////////////////////////////////////////
+///////////////////////////// BUG BOUNTIES //////////////////////////////
+/////////////////////////////////////////////////////////////////////////
 
   DATE      PROGRAM      LANGUAGE   CATEGORY         SEVERITY   PLATFORM   WRITE-UP
   --------  -----------  ---------  ---------------  ---------  ---------  ---------
@@ -46,7 +53,9 @@ yashar0x@shred:~$ cat portfolio/bug-bounty.log
   02/2026   Stacks/sBTC  Rust       Cryptography     Critical   Immunefi   Private
 
 
-yashar0x@shred:~$ cat portfolio/contests.log
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////// CONTESTS ////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
 
   CONTEST               LANGUAGE   PLATFORM    FINDINGS            DESCRIPTION
   --------------------  ---------  ----------  ------------------  -----------
@@ -65,7 +74,9 @@ yashar0x@shred:~$ cat portfolio/contests.log
   zkSync Era            Solidity   Code4rena   1 Medium            -
 
 
-yashar0x@shred:~$ cat portfolio/public-works.log
+/////////////////////////////////////////////////////////////////////////
+///////////////////////////// PUBLIC WORKS //////////////////////////////
+/////////////////////////////////////////////////////////////////////////
 
   TOOL / RESOURCE                ROLE          DESCRIPTION                                                                                          LINK
   -----------------------------  ------------  ---------------------------------------------------------------------------------------------------  -----
